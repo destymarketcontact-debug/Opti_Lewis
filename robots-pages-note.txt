@@ -1,0 +1,2 @@
+NOTE : GitHub Pages projet sous /Opti_Lewis/
+Le fichier robots.txt de ce dépôt est livré comme référence et pour une future migration. Les directives robots sont normalement lues à la racine de l'hôte, et non au chemin /Opti_Lewis/robots.txt. Pour ce site de projet, soumettez le sitemap dans Google Search Console et n'essayez pas de bloquer les ressources du site. Avec un domaine personnalisé, publiez le robots.txt à la racine du domaine.

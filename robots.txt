@@ -1,0 +1,6 @@
+# Fichier fourni dans le dépôt du site de projet GitHub Pages.
+# IMPORTANT : sur une URL de projet /Opti_Lewis/, ce fichier n'est PAS le robots.txt à la racine de l'hôte.
+# Il sera utile si le site est transféré sur un domaine où ce fichier est servi à la racine.
+User-agent: *
+Allow: /
+Sitemap: https://destymarketcontact-debug.github.io/Opti_Lewis/sitemap.xml
